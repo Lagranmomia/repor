@@ -10,9 +10,5 @@
         <description></description>
         <disclaimer></disclaimer>
         <platform>all</platform>
-		<assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.gif</fanart>
-    </assets>
     </extension>
 </addon>
